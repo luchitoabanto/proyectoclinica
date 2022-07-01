@@ -200,15 +200,6 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_q0noQewCEeyll8Ab91hZkA" type="Parent"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_q0maIewCEeyll8Ab91hZkA" x="7524" y="2640"/>
           </children>
-          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_jWMQIPjtEeyHVLitT5Y4zA" element="_jUhcMPjtEeyHVLitT5Y4zA" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
-            <children xmi:type="notation:DecorationNode" xmi:id="_jWPTcPjtEeyHVLitT5Y4zA" type="ImageCompartment">
-              <layoutConstraint xmi:type="notation:Size" xmi:id="_jWPTcfjtEeyHVLitT5Y4zA" width="1455" height="2381"/>
-            </children>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_jWP6gPjtEeyHVLitT5Y4zA" type="Stereotype"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_jWP6gfjtEeyHVLitT5Y4zA" type="Name"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_jWQhkPjtEeyHVLitT5Y4zA" type="Parent"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jWMQIfjtEeyHVLitT5Y4zA" x="13332" y="2112"/>
-          </children>
           <element xsi:nil="true"/>
         </contents>
       </eAnnotations>
