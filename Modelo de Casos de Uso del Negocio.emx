@@ -198,7 +198,7 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_q0nBMuwCEeyll8Ab91hZkA" type="Stereotype"/>
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_q0noQOwCEeyll8Ab91hZkA" type="Name"/>
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_q0noQewCEeyll8Ab91hZkA" type="Parent"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_q0maIewCEeyll8Ab91hZkA" x="7524" y="2640"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_q0maIewCEeyll8Ab91hZkA" x="8448" y="2244"/>
           </children>
           <element xsi:nil="true"/>
         </contents>
@@ -206,7 +206,6 @@
       <packagedElement xmi:type="uml:Dependency" xmi:id="_-EyG0OwBEeyll8Ab91hZkA" supplier="_tMLK8OwBEeyll8Ab91hZkA" client="_tagh4OwBEeyll8Ab91hZkA"/>
       <packagedElement xmi:type="uml:Actor" xmi:id="_ptRlsOwCEeyll8Ab91hZkA" name="Paciente"/>
       <packagedElement xmi:type="uml:Actor" xmi:id="_q0kk8OwCEeyll8Ab91hZkA" name="Entidad Bancaria"/>
-      <packagedElement xmi:type="uml:Actor" xmi:id="_jUhcMPjtEeyHVLitT5Y4zA" name="Actor1"/>
     </packagedElement>
     <profileApplication xmi:id="_dUqgROwBEeyll8Ab91hZkA">
       <eAnnotations xmi:id="_dUqgRewBEeyll8Ab91hZkA" source="http://www.eclipse.org/uml2/2.0.0/UML">
